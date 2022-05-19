@@ -28,14 +28,11 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  myrenbotv3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [movie_hub](https://t.me/hub1234ggmovie)
 
 ➥ Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Library : Pyrogram Asyncio 1.13.8)
 """
